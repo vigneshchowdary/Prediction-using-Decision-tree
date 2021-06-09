@@ -4,7 +4,7 @@
 # In[1]:
 
 
-#Task 4 - To Explore Decision Tree Algorithm.For the given ‘Iris’ dataset
+#Task 6 - To Explore Decision Tree Algorithm.For the given ‘Iris’ dataset
 
 
 # In[25]:
